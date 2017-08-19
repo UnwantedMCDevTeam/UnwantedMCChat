@@ -1,0 +1,22 @@
+name: UnwantedMCChat
+main: unwantedmc.UnwantedMCChat.Main
+version: 1.0
+author: MaxTheHaxor
+
+commands:
+   discord:
+      usage: /<command>
+      description: Get the Discord link.
+   twitter:
+      usage: /<command>
+      description: Get the Twitter link.
+   instagram:
+      usage: /<command>
+      description: Get the Instagram link.
+   website:
+      usage: /<command>
+      description: Get the website link.
+   clearchat:
+      usage: /<command>
+      description: Clear the chat.
+      aliases: [cc]
